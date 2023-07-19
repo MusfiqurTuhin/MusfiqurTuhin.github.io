@@ -7,7 +7,7 @@ if ((width >= 1000)){
         $("#header").css("box-shadow","0px 0px 20px rgba(0,0,0,0.09)");
         $("#header").css("padding","4vh 4vw");
         $("#navigation a").hover(function(){
-            $(this).css("border-bottom","2px solid rgb(30, 61, 89)");
+            $(this).css("border-bottom","2px solid rgb(15, 40, 48)");
         },function(){
             $(this).css("border-bottom","2px solid transparent");
         });
