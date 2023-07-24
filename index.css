@@ -23,7 +23,7 @@ body {
     animation: rotate 0.56s infinite linear;
     width:50px;
     height:50px;
-    border:12px solid rgb(255, 238, 180);
+    border:12px solid rgb(245,244,225);
     border-bottom:12px solid #1e3d59;
     border-radius:50%;
     margin:0;
@@ -38,7 +38,7 @@ header {
     position:fixed;
     font-weight:bold;
     background:transparent;
-    color:#FFEFB4e1;
+    color:#F5f4e1;
     transition:0.4s ease-in-out;
     z-index:2;
 }
@@ -96,11 +96,11 @@ header table {
     transition:0.4s ease-in-out;
 }
 #navigation a:hover{
-    border-bottom:2px solid #FFEFB4e1;
+    border-bottom:2px solid #F5f4e1;
 }
 #top_part {
     width:100%;
-    border:2vh solid #FFEFB4e1;
+    border:2vh solid #F5f4e1e1;
 }
 #top_part tr td{
     width:50%;
@@ -138,7 +138,7 @@ header table {
 }
 .social:hover {
     cursor: pointer;
-    color:#FFEFB4e1;
+    color:#f5f4e1;
     background:rgb(15, 40, 48);
     box-shadow:0px 10px 30px rgba(15, 40, 48,0.8);
 }
@@ -146,7 +146,7 @@ header table {
     font-size:18px;
     font-family: 'Poppins', sans-serif;
     color:rgb(15, 40, 48);
-    background:#FFEFB4e1;
+    background:#F5f4e1;
     border:3px solid rgb(15, 40, 48);
     padding:8px 40px;
     width:35%;
@@ -158,13 +158,13 @@ header table {
 .btn_one:hover {
     box-shadow:0px 10px 30px rgba(15, 40, 48, 0.8);
     cursor:pointer;
-    color:#FFEFB4e1;
+    color:#F5f4e1;
     background:rgb(15, 40, 48);
 }
 #rightImage {
     width:100%;
     height:95vh;
-    background:linear-gradient(0deg,rgba(255, 238, 180, 0.8),rgba(15, 40, 48, 0.8)),url("tuhin.jpg")  center center;
+    background:linear-gradient(0deg,rgba(245,244,225, 0.8),rgba(15, 40, 48, 0.8)),url("tuhin.jpg")  center center;
     background-size:cover;
     background-repeat:no-repeat;
 }
@@ -242,7 +242,7 @@ header table {
     font-family: 'Poppins', sans-serif;
     font-size:18px;
     transition:0.4s ease-in-out;
-    color:#FFEFB4e1;
+    color:#F5F4e1;
     font-weight:bold;
 }
 #contact form textarea {
@@ -284,7 +284,7 @@ header table {
     text-decoration:none;
 }
 ::placeholder {
-    color:#FFEFB4e1;
+    color:#F5F4e1;
 }
 button:focus {
     outline:none;
@@ -345,7 +345,7 @@ button:focus {
     margin:4vh auto;
     box-shadow:0px 10px 20px rgba(15, 40, 48, 0.8);
     background:rgb(15, 40, 48);
-    color:#FFEFB4e1;
+    color:#F5F4e1;
     }
     .btn_one:hover {
         box-shadow:0px 10px 40px rgba(15, 40, 48, 0.8);
@@ -375,7 +375,7 @@ button:focus {
     }
     header {
         width:96vw;
-        background:#FFEFB4e1;
+        background:#F5F4e1;
         padding:4vh 2vw;
         position:absolute;
     }
